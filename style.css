@@ -16,8 +16,8 @@ body {
   text-align: center;
   font-size: 5vw;
   line-height: 1.7;
-  color: var(--txtcolor);
-  background: var(--bgcolor);
+  color: white;
+  background: transparent;
   background-position: center;
   background-size: cover;
   height: 100vh;
