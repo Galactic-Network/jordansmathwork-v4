@@ -50,8 +50,8 @@ p {
 
 .gameimg:hover {
   cursor: pointer;
-    width: 300px;
-  	height: 300px;
+    width: 250px;
+  	height: 250px;
   box-shadow: 0 0 1vw #181818;
 }
 
