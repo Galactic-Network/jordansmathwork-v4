@@ -50,8 +50,7 @@ p {
 
 .gameimg:hover {
   cursor: pointer;
-    width: 160px;
-  	height: 160px;
+    transform: scale(1.1);
   box-shadow: 0 0 1vw #181818;
 }
 
